@@ -1,0 +1,9 @@
+MySQL Workbench
+	-show scheme in side panel
+	-show new user with privelages
+Eclipse
+	-Show all of pom.xml
+	-Show all packages in explorer side panel
+	-Show Exception class
+	-Show Connection class
+	-show main class
