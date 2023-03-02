@@ -1,0 +1,7 @@
+Show application quit
+Show string menu input fail
+Show invalid menu option
+Show entering a project
+
+Show projects.entity
+Show provided.util
